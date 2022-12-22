@@ -1,5 +1,5 @@
-# Starting2
-Incluyendo algunas mejoras a Starting!
+# Clasificador de perros y gatos con Tensorflow y Tkinter. Mejorado!
+Incluyendo algunas mejoras al primer proyecto que hice!
 ## Introducción
 Luego de hacer mi primer miniproyecto quise seguir agregando mas funcionalidades a la aplicación.
 Es por eso que presento una nueva versión de este proyecto!
